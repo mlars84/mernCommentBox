@@ -66,6 +66,6 @@ const style = {
     fontSize:'.7rem',
     color:'red'
   }
-}
+};
 
 module.exports = style;
